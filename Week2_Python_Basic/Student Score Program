@@ -1,0 +1,15 @@
+# Program to store and calculate student scores
+
+# Dictionary to store scores
+scores = {"Alice": 90, "Bob": 80, "Charlie": 95}
+
+# Function to calculate average
+def average_score(data):
+    return sum(data.values()) / len(data)
+
+# Display scores
+for name, score in scores.items():
+    print(f"{name}: {score}")
+
+# Display average
+print("Average Score:", average_score(scores))
