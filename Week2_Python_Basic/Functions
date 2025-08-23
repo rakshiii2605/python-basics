@@ -1,0 +1,5 @@
+# Function to greet
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Logarakshika"))
