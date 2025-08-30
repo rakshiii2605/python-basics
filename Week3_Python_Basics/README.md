@@ -4,9 +4,9 @@
 Learn how to read and write data to files, and handle errors smoothly.
 
 ### 📌 Topics Covered
-Opening, reading, and writing .txt and .csv files in Python (open, read, write, with)
-File modes → "r" (read), "w" (write), "a" (append)
-Error handling with try, except, finally
+- Opening, reading, and writing .txt and .csv files in Python (open, read, write, with)
+- File modes → "r" (read), "w" (write), "a" (append)
+- Error handling with try, except, finally
 
 ### 💻 Practice Programs
 1. **write_file.py** – Write some text into a file
