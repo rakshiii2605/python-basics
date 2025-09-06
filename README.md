@@ -49,3 +49,20 @@ Learn how to read and write data to files, and handle errors smoothly.
 3. **append_file.py** – Append new text into an existing file
 4. **error_handling.py** – Demonstrate error handling using try and except
 5. **contact_book.py** – Build a simple contact book that stores names & numbers in a file
+
+# Week 4: Mini Project: Python Application  
+
+### 📝 Goal  
+Apply everything you’ve learned so far in a real-world mini project: plan, build, test, and improve a small Python application.  
+
+### 📌 Topics Covered  
+- Breaking a problem into input → logic → output → data storage  
+- Organizing code with **functions**  
+- File handling for saving project data (`.json`, `.txt`, `.csv`)  
+- User input handling in CLI apps  
+- Testing and improving the program  
+- (Optional) Using APIs (for projects like Weather Info)  
+
+### 💻 Practice Programs / Files to Create  
+1. **todo_cli.py** – Build a To-Do List CLI app (starter code provided below).  
+
