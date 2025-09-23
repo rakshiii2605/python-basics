@@ -1,4 +1,4 @@
-#Week 7: Data Analysis with Pandas
+# Week 7: Data Analysis with Pandas
 
 ### 🎯 Goal
 Learn how to analyze and manipulate data using Pandas.
