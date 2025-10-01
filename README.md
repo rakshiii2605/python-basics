@@ -113,7 +113,7 @@ Work with real-world data from the internet using APIs and JSON.
 2. weather_app.py – Get city weather details from OpenWeatherMap API.
 3. news_app.py – Fetch and display top headlines using News API.
 
-# Week 7: Data Analysis with Pandas
+# Week 8: Final Mini Project
 
 ### 🎯 Goal
 Learn how to analyze and manipulate data using Pandas.
@@ -143,5 +143,28 @@ Learn how to analyze and manipulate data using Pandas.
 3. groupby_demo.py – Group data (e.g., average marks by subject, expenses by category).
 4. analysis_task.py – Your own mini analysis project (marks, COVID, or expenses).
 
+# Week 7: Data Analysis with Pandas
+
+### 🎯 Goal
+Apply everything learned so far by building a meaningful Python project.
+
+### 📚 Topics Covered
+- Breaking down a project into smaller steps (input → logic → output → save data)
+- Using functions to organize code
+- File handling & error handling
+- Working with APIs / CSV files
+- Building a complete mini project
+
+### 🛠 Steps to Follow
+1. Pick one project idea (File Organizer, Student Result System, Daily Expense Tracker, or Stock Tracker).
+2. Plan the workflow: take inputs, process logic, display output, and save data.
+3. Use Python concepts: functions, loops, file handling, exceptions, and libraries.
+4. Test the program with different inputs and refine it.
+
+### 💻 Practice Programs 
+1. file_organizer.py – Organizes files into folders (Documents, Images, CSV, etc.).
+2. student_result_system.py – Stores marks, calculates averages, and displays results.
+3. daily_expense_tracker.py – Tracks expenses and saves them into a CSV file.
+4. stock_tracker.py – Fetches stock prices using an API and displays updates.
   
 
