@@ -1,29 +1,23 @@
-# Week 8: Final Mini Project
+# Week 8 : final mini project
 
 ### 🎯 Goal
-Learn how to analyze and manipulate data using Pandas.
+Apply everything learned so far by building a meaningful Python project.
 
 ### 📚 Topics Covered
-- Installing and importing Pandas
-- Loading CSV data with pd.read_csv()
-- Exploring data with .head(), .info(), .describe()
-- Grouping and summarizing data using .groupby()
-- Basic data cleaning and filtering
+- Breaking down a project into smaller steps (input → logic → output → save data)
+- Using functions to organize code
+- File handling & error handling
+- Working with APIs / CSV files
+- Building a complete mini project
 
 ### 🛠 Steps to Follow
-1. Install Pandas if not already installed:
-   pip install pandas
-2. Import Pandas in Python:
-   import pandas as pd
-3. Load a dataset (CSV file) using pd.read_csv("filename.csv").
-4. Explore the data using:
-.head() → first 5 rows
-.describe() → statistics summary
-.info() → dataset overview
-5. Perform simple analysis with .groupby() and filtering.
+1. Pick one project idea (File Organizer, Student Result System, Daily Expense Tracker, or Stock Tracker).
+2. Plan the workflow: take inputs, process logic, display output, and save data.
+3. Use Python concepts: functions, loops, file handling, exceptions, and libraries.
+4. Test the program with different inputs and refine it.
 
 ### 💻 Practice Programs 
-1. load_csv.py – Load and display a CSV file.
-2. explore_data.py – Use .head(), .describe(), .info() to understand the data.
-3. groupby_demo.py – Group data (e.g., average marks by subject, expenses by category).
-4. analysis_task.py – Your own mini analysis project (marks, COVID, or expenses).
+1. file_organizer.py – Organizes files into folders (Documents, Images, CSV, etc.).
+2. student_result_system.py – Stores marks, calculates averages, and displays results.
+3. daily_expense_tracker.py – Tracks expenses and saves them into a CSV file.
+4. stock_tracker.py – Fetches stock prices using an API and displays updates.
